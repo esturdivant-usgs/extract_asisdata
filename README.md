@@ -12,8 +12,6 @@ In the bash console, type `\ArcGIS\Pro\bin\Python\Scripts\proenv` to activate th
 In bash console: 
 
 ```
-# Activate ArcGIS Pro Python 3 conda environment
-\ArcGIS\Pro\bin\Python\Scripts\proenv 
-# Open a jupyter lab session
-jupyter lab
+\ArcGIS\Pro\bin\Python\Scripts\proenv # Activate ArcGIS Pro Python 3 conda environment
+jupyter lab # Open a jupyter lab session
 ```
